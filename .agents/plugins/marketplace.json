@@ -1,0 +1,20 @@
+{
+  "name": "guizang-codex",
+  "interface": {
+    "displayName": "归藏设计 · Codex"
+  },
+  "plugins": [
+    {
+      "name": "guizang-design",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

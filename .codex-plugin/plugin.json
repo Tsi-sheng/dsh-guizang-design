@@ -1,0 +1,12 @@
+{
+  "name": "guizang-design",
+  "version": "0.1.4-codex.2",
+  "description": "归藏设计的 Codex 移植。网页演示、可编辑 PowerPoint、中文排版、图文卡片与语气整理。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "归藏设计",
+    "shortDescription": "电子杂志与瑞士风演示设计",
+    "category": "Productivity"
+  }
+}
+
